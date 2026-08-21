@@ -1,0 +1,10 @@
+{
+  "name": "video-voiceover-demo",
+  "version": "0.1.0",
+  "description": "Demo plugin: reads a source video from a Google Drive Input folder, generates a sample AI voiceover (HeyGen TTS), mixes it into the video with ffmpeg, and exports a versioned result to the Output folder.",
+  "author": {
+    "name": "devbof",
+    "email": "devbof@edu.gimasys.com"
+  },
+  "keywords": ["video", "voiceover", "ffmpeg", "heygen", "google-drive"]
+}

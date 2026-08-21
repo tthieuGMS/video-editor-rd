@@ -1,0 +1,6 @@
+node_modules/
+Video input/
+*.mp4
+*.wav
+*.mov
+*.mkv
