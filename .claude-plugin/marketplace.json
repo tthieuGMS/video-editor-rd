@@ -1,0 +1,15 @@
+{
+  "name": "video-editor-plugins",
+  "owner": {
+    "name": "tthieuGMS",
+    "email": "devbof@edu.gimasys.com"
+  },
+  "plugins": [
+    {
+      "name": "video-voiceover-demo",
+      "source": "./plugin/video-voiceover-demo",
+      "description": "Demo plugin: reads a source video from a Google Drive Input folder, generates a sample AI voiceover (HeyGen TTS), mixes it into the video with ffmpeg, and exports a versioned result to Output.",
+      "version": "0.1.0"
+    }
+  ]
+}
